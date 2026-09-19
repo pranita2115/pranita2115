@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Pranita – AI-Driven QA Automation Engineer">
+  <style>
+    .f { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+  </style>
+  <rect x="1" y="1" width="1198" height="258" rx="18" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="2"/>
+  <rect x="1" y="1" width="8" height="258" rx="4" fill="#1F3A5F"/>
+
+  <!-- Logo mark -->
+  <g transform="translate(80 55)">
+    <rect x="0" y="0" width="150" height="150" rx="26" fill="#FFFFFF" stroke="#1F3A5F" stroke-width="4"/>
+    <text x="68" y="112" text-anchor="middle" class="f" font-size="112" font-weight="600" fill="#1F3A5F">P</text>
+    <path d="M104 110 L114 120 L133 99" fill="none" stroke="#2563EB" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M128 16 Q128 30 142 30 Q128 30 128 44 Q128 30 114 30 Q128 30 128 16 Z" fill="#2563EB"/>
+  </g>
+
+  <!-- Text -->
+  <text x="280" y="112" class="f" font-size="64" font-weight="700" fill="#0F172A">Pranita</text>
+  <text x="282" y="160" class="f" font-size="30" font-weight="600" fill="#2563EB">AI-Driven QA Automation Engineer</text>
+  <text x="282" y="202" class="f" font-size="20" font-weight="500" fill="#64748B" letter-spacing="1">Playwright · TypeScript · AI-Assisted Testing · CI/CD · Germany</text>
+</svg>
