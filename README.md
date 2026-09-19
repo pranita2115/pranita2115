@@ -1,104 +1,78 @@
-<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=Hi%2C%20I'm%20Pranita&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Automation%20Engineer%20%7C%20Germany&descAlignY=58&descSize=18" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1F3A5F&height=150&text=Pranita&fontSize=46&fontColor=FFFFFF&fontAlignY=42&desc=QA%20Automation%20Engineer%20%C2%B7%20Germany&descSize=18&descAlignY=72" width="100%" alt="Pranita – QA Automation Engineer"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/pranita2115">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Breaking+things+so+users+don't+have+to+%F0%9F%A7%AA;Playwright+%7C+SQL+%7C+CI%2FCD;Turning+manual+checks+into+automated+tests;Always+learning%2C+always+testing+%F0%9F%9A%80" alt="Typing SVG"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranita2115&label=Profile%20views&color=a855f7&style=for-the-badge" alt="Profile views"/>
-  <a href="https://github.com/pranita2115?tab=followers"><img src="https://img.shields.io/github/followers/pranita2115?label=Followers&style=for-the-badge&color=7F00FF&logo=github" alt="Followers"/></a>
-  <a href="mailto:aitwadkarp115@gmail.com"><img src="https://img.shields.io/badge/Open%20to-QA%20Roles-E100FF?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to QA roles"/></a>
+  <img src="https://img.shields.io/badge/Location-Germany-1F3A5F?style=flat-square" alt="Location: Germany"/>
+  <img src="https://img.shields.io/badge/Focus-Test_Automation-1F3A5F?style=flat-square" alt="Focus: Test Automation"/>
+  <img src="https://img.shields.io/badge/Status-Open_to_QA_Roles-2E7D32?style=flat-square" alt="Open to QA roles"/>
 </p>
 
 ---
 
-## 🧪 About Me
+### About
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" alt="Test tube" />
+QA Automation Engineer based in Germany, specialising in **end-to-end UI automation** and **backend data validation**. I build structured, maintainable test frameworks that run in CI on every commit, helping teams release with confidence.
 
-I'm a **QA Automation Engineer** based in **Germany** 🇩🇪 who loves end-to-end UI automation and backend data validation. I turn repetitive manual checks into **reliable, maintainable test suites** that run on every commit, because good software deserves good tests.
-
-- 🔭 Working on **scalable Playwright frameworks** with the Page Object Model
-- 🌱 Learning **AI-assisted testing** with Playwright Agents, and **API testing**
-- 🤝 Open to **QA / Test Automation roles** and collaborations
-- ⚡ Fun fact: a flaky test turning green *for the right reason* makes my day
-
-<br clear="right"/>
-
-```ts
-// pranita.spec.ts
-import { test, expect } from '@playwright/test';
-
-test('Pranita is a QA Automation Engineer', async () => {
-  const pranita = {
-    location: 'Germany 🇩🇪',
-    role: 'QA Automation Engineer',
-    stack: ['Playwright', 'TypeScript', 'SQL', 'GitHub Actions'],
-    learning: ['Playwright Agents', 'API Testing'],
-    motto: 'If it is not tested, it is broken.',
-  };
-
-  expect(pranita.role).toContain('QA');
-  expect(pranita.stack).toContain('Playwright');
-}); // ✅ 1 passed
-```
+**Current focus**
+- Scalable Playwright test frameworks using the Page Object Model
+- AI-assisted test design with Playwright Agents
+- API testing and CI/CD integration
 
 ---
 
-## 🛠️ Tech Stack
+### Core Competencies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,postgres,sqlite,githubactions,git,github,vscode,postman&theme=dark" alt="Tech stack icons"/>
-</p>
+| Area | Skills |
+|---|---|
+| **Test Automation** | Playwright, Page Object Model, end-to-end and regression testing |
+| **Backend & Data QA** | SQL, SQLite, PostgreSQL, data integrity and business-rule validation |
+| **API Testing** | Postman, REST API validation |
+| **CI/CD & Tooling** | GitHub Actions, Git, VS Code, Jira |
+| **Languages** | TypeScript, JavaScript, SQL |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/Page_Object_Model-7F00FF?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="POM"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-E100FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+---
+
+### Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-334155?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-1F3A5F?style=flat-square&logo=databricks&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Postman-334155?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Git-334155?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+### Selected Projects
 
-| | Project | What it does |
-|:-:|---|---|
-| 🏥 | [**Healthcare SQL QA**](https://github.com/pranita2115/healthcare-sql-qa-project) | Backend QA for a simulated hospital system: validates patients, appointments, prescriptions and invoices with SQL + SQLite, run in CI via GitHub Actions |
-| 🛒 | [**Playwright POM E-commerce**](https://github.com/pranita2115/playwright-pom-ecommerce) | End-to-end UI test framework for an e-commerce app using the Page Object Model |
-| 🤖 | [**Playwright Agents**](https://github.com/pranita2115/Playwright-agents-project) | Exploring AI-assisted test planning, generation and self-healing |
-| 📚 | [**Automation Practice**](https://github.com/pranita2115/AutomationPractice) | My learning playground: automation exercises, Git cheat sheets and CI experiments |
-
----
-
-## 🧭 How I Test
-
-<table>
-  <tr>
-    <td align="center" width="25%">⏪<br/><b>Shift left</b><br/><sub>Test early, test often</sub></td>
-    <td align="center" width="25%">📖<br/><b>Readable first</b><br/><sub>Clear tests beat clever tests</sub></td>
-    <td align="center" width="25%">🤖<br/><b>Automate the boring</b><br/><sub>Explore the interesting</sub></td>
-    <td align="center" width="25%">✅<br/><b>Green means green</b><br/><sub>A passing pipeline should mean something</sub></td>
-  </tr>
-</table>
+| Project | Description | Stack |
+|---|---|---|
+| [**Healthcare SQL QA**](https://github.com/pranita2115/healthcare-sql-qa-project) | Backend QA for a simulated hospital system. Validates patient, appointment, prescription and invoice workflows, checks data integrity and business rules, and runs automatically in CI. | SQL · SQLite · GitHub Actions |
+| [**Playwright POM E-commerce**](https://github.com/pranita2115/playwright-pom-ecommerce) | End-to-end UI test framework for an e-commerce application, structured with the Page Object Model for reusable, maintainable tests. | Playwright · TypeScript |
+| [**Playwright Agents**](https://github.com/pranita2115/Playwright-agents-project) | Exploration of AI-assisted test planning, generation and self-healing with Playwright's agent tooling. | Playwright · AI |
+| [**Automation Practice**](https://github.com/pranita2115/AutomationPractice) | Automation exercises, Git workflow notes and CI experiments. | Git · GitHub Actions |
 
 ---
 
-## 📫 Let's Connect
+### Testing Principles
 
-<p align="center">
-  <a href="mailto:aitwadkarp115@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/pranita2115"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+- **Shift left:** test early and continuously
+- **Readability:** clear, maintainable tests over clever ones
+- **Reliability:** stable tests and a pipeline whose green result can be trusted
+- **Traceability:** tests linked to requirements and reported clearly
 
-<p align="center"><i>"Quality is never an accident; it is always the result of intelligent effort."</i></p>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=120&section=footer" width="100%" alt="Footer"/>
+### Contact
+
+<p>
+  <a href="mailto:aitwadkarp115@gmail.com"><img src="https://img.shields.io/badge/Email-aitwadkarp115%40gmail.com-1F3A5F?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/pranita2115"><img src="https://img.shields.io/badge/GitHub-pranita2115-334155?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
