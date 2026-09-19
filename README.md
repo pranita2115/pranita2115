@@ -1,88 +1,128 @@
-<h1 align="center">Hi, I'm Pranita 👋</h1>
-<h3 align="center">QA Automation Engineer · Building tests that catch bugs before users do</h3>
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=Hi%2C%20I'm%20Pranita&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Automation%20Engineer%20%7C%20Germany&descAlignY=58&descSize=18" width="100%" alt="Header"/>
+</p>
 
 <p align="center">
-  <a href="https://github.com/pranita2115"><img src="https://img.shields.io/github/followers/pranita2115?label=Followers&style=social" alt="GitHub followers"/></a>
-  <img src="https://komarev.com/ghpvc/?username=pranita2115&color=blueviolet&style=flat" alt="Profile views"/>
+  <a href="https://github.com/pranita2115">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Breaking+things+so+users+don't+have+to+%F0%9F%A7%AA;Playwright+%7C+SQL+%7C+CI%2FCD;Turning+manual+checks+into+automated+tests;Always+learning%2C+always+testing+%F0%9F%9A%80" alt="Typing SVG"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pranita2115&label=Profile%20views&color=a855f7&style=for-the-badge" alt="Profile views"/>
+  <a href="https://github.com/pranita2115?tab=followers"><img src="https://img.shields.io/github/followers/pranita2115?label=Followers&style=for-the-badge&color=7F00FF&logo=github" alt="Followers"/></a>
+  <a href="mailto:aitwadkarp115@gmail.com"><img src="https://img.shields.io/badge/Open%20to-QA%20Roles-E100FF?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to QA roles"/></a>
 </p>
 
 ---
 
-### 🧪 About Me
+## 🧪 About Me
 
-I'm a QA Automation Engineer based in **Germany** 🇩🇪, focused on end-to-end UI automation and backend data validation. I like turning manual, repetitive checks into reliable, maintainable test suites that run on every commit, because good software deserves good tests.
+<img align="right" width="340" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" alt="Test tube" />
 
-- 🔭 **Currently working on:** Scalable Playwright frameworks using the Page Object Model
-- 🌱 **Currently learning:** AI-assisted testing with Playwright Agents, and API testing
-- 🤝 **Open to:** QA / Test Automation roles, collaborations, and open-source testing projects
-- ⚡ **Fun fact:** I get oddly excited when a flaky test finally goes green for the right reason
+I'm a **QA Automation Engineer** based in **Germany** 🇩🇪 who loves end-to-end UI automation and backend data validation. I turn repetitive manual checks into **reliable, maintainable test suites** that run on every commit, because good software deserves good tests.
 
----
+- 🔭 Working on **scalable Playwright frameworks** with the Page Object Model
+- 🌱 Learning **AI-assisted testing** with Playwright Agents, and **API testing**
+- 🤝 Open to **QA / Test Automation roles** and collaborations
+- ⚡ Fun fact: a flaky test turning green *for the right reason* makes my day
 
-### 🛠️ Tech Stack
+<br clear="right"/>
 
-**Languages**
+```ts
+// pranita.spec.ts
+import { test, expect } from '@playwright/test';
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+test('Pranita is a QA Automation Engineer', async () => {
+  const pranita = {
+    location: 'Germany 🇩🇪',
+    role: 'QA Automation Engineer',
+    stack: ['Playwright', 'TypeScript', 'SQL', 'GitHub Actions'],
+    learning: ['Playwright Agents', 'API Testing'],
+    motto: 'If it is not tested, it is broken.',
+  };
 
-**Testing & Automation**
-
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Page Object Model](https://img.shields.io/badge/Page_Object_Model-6E40C9?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Databases, CI/CD & Tools**
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+  expect(pranita.role).toContain('QA');
+  expect(pranita.stack).toContain('Playwright');
+}); // ✅ 1 passed
+```
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🏥 [**Healthcare SQL QA Project**](https://github.com/pranita2115/healthcare-sql-qa-project) | Backend QA automation for a simulated hospital system. It validates patient, doctor, appointment, prescription and invoice workflows with SQL + SQLite, checks data integrity and business rules, and runs in CI via GitHub Actions. |
-| 🛒 [**Playwright POM E-commerce**](https://github.com/pranita2115/playwright-pom-ecommerce) | End-to-end UI test framework for an e-commerce app, built with Playwright and the Page Object Model for clean, reusable, maintainable tests. |
-| 🤖 [**Playwright Agents**](https://github.com/pranita2115/Playwright-agents-project) | Exploring AI-assisted test planning, generation and self-healing with Playwright's agent tooling. |
-| 📚 [**Automation Practice**](https://github.com/pranita2115/AutomationPractice) | My learning playground: automation exercises, Git workflow cheat sheets, and CI experiments. |
-
----
-
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pranita2115&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pranita's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranita2115&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,postgres,sqlite,githubactions,git,github,vscode,postman&theme=dark" alt="Tech stack icons"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Page_Object_Model-7F00FF?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="POM"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-E100FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/pranita2115/healthcare-sql-qa-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pranita2115&repo=healthcare-sql-qa-project&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Healthcare SQL QA Project"/></a>
+  <a href="https://github.com/pranita2115/playwright-pom-ecommerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pranita2115&repo=playwright-pom-ecommerce&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Playwright POM E-commerce"/></a>
+  <a href="https://github.com/pranita2115/Playwright-agents-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pranita2115&repo=Playwright-agents-project&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Playwright Agents"/></a>
+  <a href="https://github.com/pranita2115/AutomationPractice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pranita2115&repo=AutomationPractice&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Automation Practice"/></a>
+</p>
+
+| | Project | What it does |
+|:-:|---|---|
+| 🏥 | [**Healthcare SQL QA**](https://github.com/pranita2115/healthcare-sql-qa-project) | Backend QA for a simulated hospital system: validates patients, appointments, prescriptions and invoices with SQL + SQLite, run in CI via GitHub Actions |
+| 🛒 | [**Playwright POM E-commerce**](https://github.com/pranita2115/playwright-pom-ecommerce) | End-to-end UI test framework for an e-commerce app using the Page Object Model |
+| 🤖 | [**Playwright Agents**](https://github.com/pranita2115/Playwright-agents-project) | Exploring AI-assisted test planning, generation and self-healing |
+| 📚 | [**Automation Practice**](https://github.com/pranita2115/AutomationPractice) | My learning playground: automation exercises, Git cheat sheets and CI experiments |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pranita2115&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranita2115&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pranita2115&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
----
-
-### 🧭 How I Approach Quality
-
-```text
-✔ Test early, test often: shift-left wherever possible
-✔ Readable tests > clever tests
-✔ Automate the boring stuff, explore the interesting stuff
-✔ A green pipeline should mean something
-```
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranita2115&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph"/>
+</p>
 
 ---
 
-### 📫 Let's Connect
+## 🧭 How I Test
 
-<p align="left">
+<table>
+  <tr>
+    <td align="center" width="25%">⏪<br/><b>Shift left</b><br/><sub>Test early, test often</sub></td>
+    <td align="center" width="25%">📖<br/><b>Readable first</b><br/><sub>Clear tests beat clever tests</sub></td>
+    <td align="center" width="25%">🤖<br/><b>Automate the boring</b><br/><sub>Explore the interesting</sub></td>
+    <td align="center" width="25%">✅<br/><b>Green means green</b><br/><sub>A passing pipeline should mean something</sub></td>
+  </tr>
+</table>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
   <a href="mailto:aitwadkarp115@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/pranita2115"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <p align="center"><i>"Quality is never an accident; it is always the result of intelligent effort."</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=120&section=footer" width="100%" alt="Footer"/>
+</p>
