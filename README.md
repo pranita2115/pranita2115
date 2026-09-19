@@ -68,36 +68,12 @@ test('Pranita is a QA Automation Engineer', async () => {
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/pranita2115/healthcare-sql-qa-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pranita2115&repo=healthcare-sql-qa-project&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Healthcare SQL QA Project"/></a>
-  <a href="https://github.com/pranita2115/playwright-pom-ecommerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pranita2115&repo=playwright-pom-ecommerce&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Playwright POM E-commerce"/></a>
-  <a href="https://github.com/pranita2115/Playwright-agents-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pranita2115&repo=Playwright-agents-project&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Playwright Agents"/></a>
-  <a href="https://github.com/pranita2115/AutomationPractice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pranita2115&repo=AutomationPractice&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Automation Practice"/></a>
-</p>
-
 | | Project | What it does |
 |:-:|---|---|
 | 🏥 | [**Healthcare SQL QA**](https://github.com/pranita2115/healthcare-sql-qa-project) | Backend QA for a simulated hospital system: validates patients, appointments, prescriptions and invoices with SQL + SQLite, run in CI via GitHub Actions |
 | 🛒 | [**Playwright POM E-commerce**](https://github.com/pranita2115/playwright-pom-ecommerce) | End-to-end UI test framework for an e-commerce app using the Page Object Model |
 | 🤖 | [**Playwright Agents**](https://github.com/pranita2115/Playwright-agents-project) | Exploring AI-assisted test planning, generation and self-healing |
 | 📚 | [**Automation Practice**](https://github.com/pranita2115/AutomationPractice) | My learning playground: automation exercises, Git cheat sheets and CI experiments |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pranita2115&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranita2115&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pranita2115&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranita2115&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph"/>
-</p>
 
 ---
 
