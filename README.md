@@ -1,10 +1,27 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1F3A5F&height=150&text=Pranita&fontSize=46&fontColor=FFFFFF&fontAlignY=42&desc=QA%20Automation%20Engineer%20%C2%B7%20Germany&descSize=18&descAlignY=72" width="100%" alt="Pranita – QA Automation Engineer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1F3A5F&height=170&text=Pranita&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=AI-Driven%20QA%20Automation%20Engineer&descSize=20&descAlignY=62" width="100%" alt="Pranita – AI-Driven QA Automation Engineer"/>
+</p>
+
+<p align="center"><b>Playwright · TypeScript · AI-Assisted Testing · CI/CD</b><br/><sub>Based in Germany</sub></p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="40" alt="Playwright" title="Playwright"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" title="SQLite"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="Postman" title="Postman"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" title="GitHub Actions"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="40" alt="Jira" title="Jira"/>&nbsp;
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Germany-1F3A5F?style=flat-square" alt="Location: Germany"/>
-  <img src="https://img.shields.io/badge/Focus-Test_Automation-1F3A5F?style=flat-square" alt="Focus: Test Automation"/>
+  <img src="https://img.shields.io/badge/Focus-AI--Driven_Test_Automation-1F3A5F?style=flat-square" alt="Focus: AI-Driven Test Automation"/>
   <img src="https://img.shields.io/badge/Status-Open_to_QA_Roles-2E7D32?style=flat-square" alt="Open to QA roles"/>
 </p>
 
@@ -12,7 +29,7 @@
 
 ### About
 
-QA Automation Engineer based in Germany, specialising in **end-to-end UI automation** and **backend data validation**. I build structured, maintainable test frameworks that run in CI on every commit, helping teams release with confidence.
+AI-driven QA Automation Engineer based in Germany, specialising in **end-to-end UI automation**, **AI-assisted test design** and **backend data validation**. I build structured, maintainable test frameworks that run in CI on every commit, helping teams release with confidence.
 
 **Current focus**
 - Scalable Playwright test frameworks using the Page Object Model
@@ -25,6 +42,7 @@ QA Automation Engineer based in Germany, specialising in **end-to-end UI automat
 
 | Area | Skills |
 |---|---|
+| **AI-Assisted Testing** | Playwright Agents, AI-generated test plans, self-healing locators, prompt-driven test design |
 | **Test Automation** | Playwright, Page Object Model, end-to-end and regression testing |
 | **Backend & Data QA** | SQL, SQLite, PostgreSQL, data integrity and business-rule validation |
 | **API Testing** | Postman, REST API validation |
