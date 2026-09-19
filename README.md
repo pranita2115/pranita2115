@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1F3A5F&height=170&text=Pranita&fontSize=46&fontColor=FFFFFF&fontAlignY=36&desc=AI-Driven%20QA%20Automation%20Engineer&descSize=20&descAlignY=62" width="100%" alt="Pranita – AI-Driven QA Automation Engineer"/>
+  <img src="assets/header.svg" width="100%" alt="Pranita – AI-Driven QA Automation Engineer"/>
 </p>
-
-<p align="center"><b>Playwright · TypeScript · AI-Assisted Testing · CI/CD</b><br/><sub>Based in Germany</sub></p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="40" alt="Playwright" title="Playwright"/>&nbsp;
